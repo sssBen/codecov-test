@@ -24,3 +24,4 @@ jobs:
       with:
         name: codecov-umbrella
         token: ddda509a-6f58-4361-87dd-518de22927de
+        fail_ci_if_error: true
